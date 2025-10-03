@@ -178,11 +178,11 @@ public class License {
 
     //Getter und Setter Maximale Server
 
-    public Integer getMaxServer() {
+    public Integer getMaxServers() {
         return maxServer;
     }
 
-    public void setMaxServer(Integer maxServer) {
+    public void setMaxServers(Integer maxServer) {
         this.maxServer = maxServer;
     }
 
